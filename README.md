@@ -5,3 +5,24 @@
    - kohtvõrgukommutaator (switch)
    - tulemüür (firewall) 
    - WiFi tugijaam (WiFi access point)
+3. Võrguprotokollid ja nende kasutus (lühidalt):
+   - SSH
+   - telnet 
+   - IMAP, POP3, SMTP
+   - SNMP
+   - HTTP, HTTPS
+   - DNS
+   - NTP
+   - IP
+   - IPv6
+   - TCP
+   - UDP
+   - ICMP
+4. Diagnostika vahendid:
+   - Wireshark
+   - tcpdump 
+   - ping 
+   - traceroute / tracert
+   - nslookup / dig
+   - Ressource monitor (Windows)
+   - netstat 
