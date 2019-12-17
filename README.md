@@ -2,7 +2,7 @@
 1. Ülevaade kursuses kasutatud käsurea programmide ja näidete kohta.
 2. Ülevaade põhilistest võrguseadmetest ja nende ülesannetest:
    - ruuter (router)
-    ruuter on elektrooniline seade, mis ühendab omavahel kaht või enamat arvutivõrku, ning võimaldab nendevahelise andmeside.
+   > ruuter on elektrooniline seade, mis ühendab omavahel kaht või enamat arvutivõrku, ning võimaldab nendevahelise andmeside.
    - kohtvõrgukommutaator (switch)
    - tulemüür (firewall) 
    - WiFi tugijaam (WiFi access point)
