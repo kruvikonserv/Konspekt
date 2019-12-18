@@ -6,11 +6,12 @@
    - kohtvõrgukommutaator(switch)
       > ...  on arvutivõrgu seade, mille abil luuakse ühendused koht- ehk LAN-võrgus.
    - tulemüür (firewall)
-      > ... on tarkvara või seade, mis turvakaalutlustel piirab ja reguleerib võrguliiklust arvutivõrgus või võrkude vahel vastavalt määratud reeglitele. 
+      > ... on tarkvara või seade, mis turvakaalutlustel piirab ja reguleerib võrguliiklust arvutivõrgus või võrkude vahel vastavalt määratud reeglitele. Tavaliselt kasutatakse tulemüüri interneti ja kohaliku kohtvõrgu vahel. Tulemüüri esmane otstarve on väljastpoolt juurdepääsu takistamine ressurssidele, millele pole sellist juurdepääsu ette nähtud. On ka tulemüüre mis piiravad väljuvat liiklust.
    - WiFi tugijaam (WiFi access point)
-      > ... on arvutivõrkude loomisel traadita pääsupunkt (WAP) või lihtsalt pöörduspunkt (AP)ja võrguseade mis võimaldab teistel Wi-Fi-seadmetel juhtmega võrguga ühenduse luua.
+      > ... on arvutivõrkude loomisel traadita pääsupunkt (WAP) või lihtsalt pöörduspunkt (AP)ja võrguseade mis võimaldab teistel Wi-Fi-seadmetel juhtmega võrguga ühenduse luua. AP ühendub tavaliselt ruuteriga (juhtmega võrgu kaudu) eraldiseisva seadmena, kuid see võib olla ka ruuteri enda lahutamatu komponent. AP füüsiline asukoht paikneb seal, kus on saadaval WiFi-juurdepääs WLAN-ile.
 3. Võrguprotokollid ja nende kasutus (lühidalt):
    - SSH
+      > ...on krüptograafiline võrguprotokoll turvaliseks võrguteenuste opereerimiseks turvamata võrgu kaudu.
    - telnet 
    - IMAP, POP3, SMTP
    - SNMP
