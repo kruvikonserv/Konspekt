@@ -8,6 +8,7 @@
    - tulemüür (firewall)
       > ... on tarkvara või seade, mis turvakaalutlustel piirab ja reguleerib võrguliiklust arvutivõrgus või võrkude vahel vastavalt määratud reeglitele. 
    - WiFi tugijaam (WiFi access point)
+      > ... on arvutivõrkude loomisel traadita pääsupunkt (WAP) või lihtsalt pöörduspunkt (AP)ja võrguseade mis võimaldab teistel Wi-Fi-seadmetel juhtmega võrguga ühenduse luua.
 3. Võrguprotokollid ja nende kasutus (lühidalt):
    - SSH
    - telnet 
