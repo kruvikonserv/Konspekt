@@ -2,9 +2,9 @@
 1. Ülevaade kursuses kasutatud käsurea programmide ja näidete kohta.
 2. Ülevaade põhilistest võrguseadmetest ja nende ülesannetest:
    - ruuter (router)
-      > ... on elektrooniline seade, mis ühendab omavahel kaht või enamat arvutivõrku, ning võimaldab nendevahelise andmeside.
+      > ... on elektrooniline seade, mis ühendab omavahel kaht või enamat arvutivõrku, ning võimaldab nendevahelise andmeside.Andmeside kahe arvutivõrgu vahel toimib pakettidena. Iga pakett sisaldab informatsiooni selle kohta, millisest võrgust see tuleb ja millisesse võrku see minema peab. Nende aadresside järgi saab ruuter otsustada, kas paketi saatja ja vastuvõtja on ühes võrgus või on vastuvõtja saatjast erinevas võrgus. 
    - kohtvõrgukommutaator(switch)
-      > ...  on arvutivõrgu seade, mille abil luuakse ühendused koht- ehk LAN-võrgus.
+      > ...  on arvutivõrgu seade, mille abil luuakse ühendused koht- ehk LAN-võrgus. Kommutaatorid töötavad peamiselt Ethernetis ehk juhtmetega võrkudes. Kommutaatori eellaseks oli kohtvõrgu jaotur, mis saatis kõik paketid valimatult kõikidele arvutitele. See süsteem töötas, sest arvuti võrgukaart võtab vaikimisi vastu ainult pakette, millel on tema MAC-aadress.
    - tulemüür (firewall)
       > ... on tarkvara või seade, mis turvakaalutlustel piirab ja reguleerib võrguliiklust arvutivõrgus või võrkude vahel vastavalt määratud reeglitele. Tavaliselt kasutatakse tulemüüri interneti ja kohaliku kohtvõrgu vahel. Tulemüüri esmane otstarve on väljastpoolt juurdepääsu takistamine ressurssidele, millele pole sellist juurdepääsu ette nähtud. On ka tulemüüre mis piiravad väljuvat liiklust.
    - WiFi tugijaam (WiFi access point)
