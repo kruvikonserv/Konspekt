@@ -15,7 +15,7 @@
    - telnet
       > ... on TCP/IP-il põhinev võrguprotokoll, mis pakub kahesuunalist interaktiivset suhtlusteenust.
    - IMAP, POP3, SMTP
-      > ... on kõige sagedamini kasutatavaid e-posti protokollid.
+      > ... on kõige sagedamini kasutatavad e-posti protokollid.
    - SNMP
    - HTTP, HTTPS
    - DNS
