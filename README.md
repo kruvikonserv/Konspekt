@@ -5,7 +5,8 @@
       > ... on elektrooniline seade, mis ühendab omavahel kaht või enamat arvutivõrku, ning võimaldab nendevahelise andmeside.
    - kohtvõrgukommutaator(switch)
       > ...  on arvutivõrgu seade, mille abil luuakse ühendused koht- ehk LAN-võrgus.
-   - tulemüür (firewall) 
+   - tulemüür (firewall)
+      > ... on tarkvara või seade, mis turvakaalutlustel piirab ja reguleerib võrguliiklust arvutivõrgus või võrkude vahel vastavalt määratud reeglitele. 
    - WiFi tugijaam (WiFi access point)
 3. Võrguprotokollid ja nende kasutus (lühidalt):
    - SSH
