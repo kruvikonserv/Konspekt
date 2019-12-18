@@ -12,8 +12,10 @@
 3. Võrguprotokollid ja nende kasutus (lühidalt):
    - SSH
       > ...on krüptograafiline võrguprotokoll turvaliseks võrguteenuste opereerimiseks turvamata võrgu kaudu.
-   - telnet 
+   - telnet
+      > ... on TCP/IP-il põhinev võrguprotokoll, mis pakub kahesuunalist interaktiivset suhtlusteenust.
    - IMAP, POP3, SMTP
+      > ... on kõige sagedamini kasutatavaid e-posti protokollid.
    - SNMP
    - HTTP, HTTPS
    - DNS
