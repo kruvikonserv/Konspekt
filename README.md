@@ -17,6 +17,7 @@
    - IMAP, POP3, SMTP
       > ... on kõige sagedamini kasutatavad e-posti protokollid.
    - SNMP
+      > Lihtne võrguhalduse protokoll(SNMP-inglise keelne lühend) on internetistandardi protokoll IP-võrkudes hallatavatelt seadmetelt andmete kogumiseks ja korraldamiseks ning nende andmete muutmist seadmete käitumise mõjutamiseks.
    - HTTP, HTTPS
    - DNS
    - NTP
