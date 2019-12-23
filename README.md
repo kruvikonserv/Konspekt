@@ -19,7 +19,9 @@
    - SNMP
       > ... on lihtne võrguhalduse protokoll on internetistandardi protokoll IP-võrkudes hallatavatelt seadmetelt andmete kogumiseks ja korraldamiseks ning nende andmete muutmist seadmete käitumise mõjutamiseks.
    - HTTP, HTTPS
+      > ... hüperteksti edastusprotokoll on protokoll teabe edastamiseks arvutivõrkudes ja (HTTPS) turvaline protokoll autenditud ja krüpteeritud informatsiooni edastamiseks arvutivõrkudes.
    - DNS
+      > ... domeeninimede süsteem on internetiteenus, mis teisendab domeeninimed internetis või intranetis kasutatavateks IP-aadressideks ja vajadusel ka vastupidi.
    - NTP
    - IP
    - IPv6
