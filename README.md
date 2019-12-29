@@ -38,7 +38,8 @@
    - Wireshark
    - tcpdump 
      > ... on tavaline pakettanalüsaator, mis töötab käsureal. See võimaldab kasutajal kuvada TCP/IP ja muud paketid mis edastatakse või  võetakse vastu üle võrgu, kuhu on ühendatud arvuti.
-   - ping 
+   - ping
+      > ...  on arvutivõrgu võrguühenduse diagnostikaprogramm, mille abil IP-võrgus hinnatakse hosti ligipääsetavust programmi käivitanud arvutist, samuti pakettide edastamiseks kuluvat aega.
    - traceroute / tracert
    - nslookup / dig
    - Ressource monitor (Windows)
