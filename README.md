@@ -44,7 +44,7 @@
       > ... on arvuti võrgu diagnostika käsud marsuut ja transiidi viivituse mõõtmine.
    - nslookup / dig
       > ... Nslookup on arvutiprogramm mida kasutatakse päringute esitamiseks DNS serverile, et saada infot võrgu kohta. Dig on nslookup-iga käsureaprogramm nimepäringute tegemiseks. Võrreldes nslookup'iga on tegu palju võimsama vahendiga. Päringutes saab kasutada erinevaid parameetreid, mis teeb kasutamise paindlikuks ja päringute vastused detailsemaks.
-- Ressource monitor (Windows)
-   > ... on süsteemi tööriist, mis laseb sul jälgida infot arvuti riistvara ja tarkvara ressursse reaalajas.
-- netstat
-   > ... on käsurida mis prindib võrguühendused, marsruutimistabelid, liidesestatistika, maskeraadühendused ja multisaate liikmesuse.
+   - Ressource monitor (Windows)
+      > ... on süsteemi tööriist, mis laseb sul jälgida infot arvuti riistvara ja tarkvara ressursse reaalajas.
+   - netstat
+      > ... on käsurida mis prindib võrguühendused, marsruutimistabelid, liidesestatistika, maskeraadühendused ja multisaate liikmesuse.
