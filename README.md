@@ -43,5 +43,6 @@
    - traceroute / tracert
       > ... on arvuti võrgu diagnostika käsud marsuut ja transiidi viivituse mõõtmine.
    - nslookup / dig
-   - Ressource monitor (Windows)
-   - netstat 
+      > ... Nslookup on arvutiprogramm mida kasutatakse päringute esitamiseks DNS serverile, et saada infot võrgu kohta. Dig on nslookup-iga käsureaprogramm nimepäringute tegemiseks. Võrreldes nslookup'iga on tegu palju võimsama vahendiga. Päringutes saab kasutada erinevaid parameetreid, mis teeb kasutamise paindlikuks ja päringute vastused detailsemaks.
+- Ressource monitor (Windows)
+- netstat 
