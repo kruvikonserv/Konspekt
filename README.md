@@ -36,6 +36,7 @@
       > ... ehk interneti kontrollsõnumiprotokoll on andmesideprotokoll, mille abil võrguseadmed vahetavad oleku- ja veainformatsiooni.
 4. Diagnostika vahendid:
    - Wireshark
+      > ... ei muuda ega tee ise võrgus muud kui vaid 'kuulab' seda ja lubab kasutajal kuuldut näha, analüüsida ja salvestada.
    - tcpdump 
      > ... on tavaline pakettanalüsaator, mis töötab käsureal. See võimaldab kasutajal kuvada TCP/IP ja muud paketid mis edastatakse või  võetakse vastu üle võrgu, kuhu on ühendatud arvuti.
    - ping
