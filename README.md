@@ -41,6 +41,7 @@
    - ping
       > ...  on arvutivõrgu võrguühenduse diagnostikaprogramm, mille abil IP-võrgus hinnatakse hosti ligipääsetavust programmi käivitanud arvutist, samuti pakettide edastamiseks kuluvat aega.
    - traceroute / tracert
+      > ... on arvuti võrgu diagnostika käsud marsuut ja transiidi viivituse mõõtmine.
    - nslookup / dig
    - Ressource monitor (Windows)
    - netstat 
