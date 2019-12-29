@@ -25,6 +25,7 @@
    - NTP
       > ... (võrguaja protokoll) on andmesideprotokoll täpse aja edastamiseks ajaserverites.
    - IP
+      > ... ehk internetiaadress on arvutivõrgus asuva seadme identifikaator ehk seadmele määratud alaline või ajutine tunnusnumber, mille abil võrku ühendatud seadmed üksteist leiavad.
    - IPv6
    - TCP
    - UDP
