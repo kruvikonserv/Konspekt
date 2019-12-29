@@ -21,7 +21,7 @@
    - HTTP, HTTPS
       > ... hüperteksti edastusprotokoll on protokoll teabe edastamiseks arvutivõrkudes ja (HTTPS) turvaline protokoll autenditud ja krüpteeritud informatsiooni edastamiseks arvutivõrkudes.
    - DNS
-      > ... domeeninimede süsteem on internetiteenus, mis teisendab domeeninimed internetis või intranetis kasutatavateks IP-aadressideks ja vajadusel ka vastupidi.
+      > ... ehk domeeninimede süsteem on internetiteenus, mis teisendab domeeninimed internetis või intranetis kasutatavateks IP-aadressideks ja vajadusel ka vastupidi.
    - NTP
       > ... (võrguaja protokoll) on andmesideprotokoll täpse aja edastamiseks ajaserverites.
    - IP
@@ -29,12 +29,15 @@
    - IPv6
       > ... ehk "uue põlvkonna" Internetiprotokoll on andmesideprotokoll, mis on loodud praegusel ajal üldkasutatava Internetiprotokolli IPv4 asendamiseks.
    - TCP
-      > ... - Edastusohje protokoll on levinuim transpordikihi võrguprotokoll, mida kasutatakse TCP/IP võrkudes.
+      > ... ehk edastusohje protokoll on levinuim transpordikihi võrguprotokoll, mida kasutatakse TCP/IP võrkudes.
    - UDP
+      > ... ehk kasutajadatagrammi protokoll on transpordikihi andmesideprotokoll, mis on defineeritud IPga sõnumite saatmiseks.
    - ICMP
+      > ... ehk interneti kontrollsõnumiprotokoll on andmesideprotokoll, mille abil võrguseadmed vahetavad oleku- ja veainformatsiooni.
 4. Diagnostika vahendid:
    - Wireshark
    - tcpdump 
+     > ... on tavaline pakettanalüsaator, mis töötab käsureal. See võimaldab kasutajal kuvada TCP/IP ja muud paketid mis edastatakse või  võetakse vastu üle võrgu, kuhu on ühendatud arvuti.
    - ping 
    - traceroute / tracert
    - nslookup / dig
