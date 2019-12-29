@@ -23,6 +23,7 @@
    - DNS
       > ... domeeninimede süsteem on internetiteenus, mis teisendab domeeninimed internetis või intranetis kasutatavateks IP-aadressideks ja vajadusel ka vastupidi.
    - NTP
+      > ... (võrguaja protokoll) on andmesideprotokoll täpse aja edastamiseks ajaserverites.
    - IP
    - IPv6
    - TCP
