@@ -27,6 +27,7 @@
    - IP
       > ... ehk internetiaadress on arvutivõrgus asuva seadme identifikaator ehk seadmele määratud alaline või ajutine tunnusnumber, mille abil võrku ühendatud seadmed üksteist leiavad.
    - IPv6
+      > ... ehk "uue põlvkonna" Internetiprotokoll on andmesideprotokoll, mis on loodud praegusel ajal üldkasutatava Internetiprotokolli IPv4 asendamiseks.
    - TCP
    - UDP
    - ICMP
