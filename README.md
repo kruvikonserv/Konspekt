@@ -29,6 +29,7 @@
    - IPv6
       > ... ehk "uue põlvkonna" Internetiprotokoll on andmesideprotokoll, mis on loodud praegusel ajal üldkasutatava Internetiprotokolli IPv4 asendamiseks.
    - TCP
+      > ... - Edastusohje protokoll on levinuim transpordikihi võrguprotokoll, mida kasutatakse TCP/IP võrkudes.
    - UDP
    - ICMP
 4. Diagnostika vahendid:
