@@ -1,4 +1,4 @@
-# **Konspekt KTA-19E**
+# **Konspekt KTA-19E (Elvis Takkis)**
 1. Ülevaade kursuses kasutatud käsurea programmide ja näidete kohta.
 2. Ülevaade põhilistest võrguseadmetest ja nende ülesannetest:
    - ruuter (router)
