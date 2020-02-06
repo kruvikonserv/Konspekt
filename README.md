@@ -12,6 +12,10 @@
       > võtab vastu viidatud pordi
    - ^D 
       > katkestab pordi ühenduse
+   - ^C 
+      > peatab tatluse
+   - > example.txt 
+      > salvestab tulemuse faili example.txt
 2. Ülevaade põhilistest võrguseadmetest ja nende ülesannetest:
    - ruuter (router)
       > ... on elektrooniline seade, mis ühendab omavahel kaht või enamat arvutivõrku, ning võimaldab nendevahelise andmeside.Andmeside kahe arvutivõrgu vahel toimib pakettidena. Iga pakett sisaldab informatsiooni selle kohta, millisest võrgust see tuleb ja millisesse võrku see minema peab. Nende aadresside järgi saab ruuter otsustada, kas paketi saatja ja vastuvõtja on ühes võrgus või on vastuvõtja saatjast erinevas võrgus. 
