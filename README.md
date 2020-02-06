@@ -14,7 +14,7 @@
       > katkestab pordi ühenduse
    - ^C 
       > peatab tatluse
-   - > example.txt 
+   - ">" example.txt 
       > salvestab tulemuse faili example.txt
 2. Ülevaade põhilistest võrguseadmetest ja nende ülesannetest:
    - ruuter (router)
