@@ -20,6 +20,14 @@
       > host saab varjunime ja IP-aadressi
    - dig host_name 
       > host saab varjunime, IP-aadressi, milline server ja millal vastatakse
+   - ip addr show 
+      > näitab mis liidesed su arvutis on (ethernet: eth0, wifi: wlan0, loopback: lo) 
+   - ip route show default 
+      > leiab vaikimisi gateway
+   - sudo tcpdump -n host host_name 
+      > võimaldab kasutajal liiklus jälgida (tuleb , läheb , pikkus) võrgu vahel, millele arvuti on ühendatud, väljumiseks ctr+C
+   - traceroute host_name 
+      > loetleb teie Linuxi ja mõne muu masina vahel hoste (saates pakette suurenevate TTL-idega, kuni esimene jõuab sihtkohta)
 2. Ülevaade põhilistest võrguseadmetest ja nende ülesannetest:
    - ruuter (router)
       > ... on elektrooniline seade, mis ühendab omavahel kaht või enamat arvutivõrku, ning võimaldab nendevahelise andmeside.Andmeside kahe arvutivõrgu vahel toimib pakettidena. Iga pakett sisaldab informatsiooni selle kohta, millisest võrgust see tuleb ja millisesse võrku see minema peab. Nende aadresside järgi saab ruuter otsustada, kas paketi saatja ja vastuvõtja on ühes võrgus või on vastuvõtja saatjast erinevas võrgus. 
